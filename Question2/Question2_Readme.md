@@ -30,8 +30,13 @@ and the recursive case `F(n) = F(n-3) + F(n-2)`
 - difficulty in handling changes .
 #### How to Run :
 1- Make sure that you have already c compiler set up already and runs without errors. 
+
 2-Navigate to the directory `Question2` where the c file is located .
+
 3- Open Command Prompt .
+
 4- Type the Following Command `gcc -o out question2_answer.c`
+
 5- After you run this command you will have `out.exe` file .
+
 6- run command `out.exe` 
