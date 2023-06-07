@@ -9,4 +9,4 @@ Solution for Backend Questions for bitnine technical assesment
 
 [Question 2 Code](https://github.com/Mohamedyasserhelmy/Bitnine_assesment/blob/master/Question2/Question2_answer.c)
 
-[Question 2 Readme](https://github.com/Mohamedyasserhelmy/Bitnine_assesment/blob/master/Question2/Question2_Readme.md)
+[Question 2 Readme](https://github.com/Mohamedyasserhelmy/Bitnine_assesment/blob/master/Question2/question2_Readme.md)
